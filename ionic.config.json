@@ -1,0 +1,8 @@
+{
+  "name": "Reza Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "48943fc7"
+}
